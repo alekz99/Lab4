@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Cross_app
 {
+    /// <summary>
+    /// Класс, создающий приложение под Ubuntu.
+    /// </summary>
     class Ubuntu : AppFactory
     {
         private string _nameOS = "Ubuntu";

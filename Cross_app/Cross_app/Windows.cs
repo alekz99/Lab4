@@ -2,6 +2,9 @@
 
 namespace Cross_app
 {
+    /// <summary>
+    /// Класс, создающий приложение под Windows.
+    /// </summary>
     class Windows : AppFactory
     {
         private string _nameOS = "Windows";

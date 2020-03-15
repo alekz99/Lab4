@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Cross_app
 {
+    /// <summary>
+    /// Класс, создающий приложение под Mac OS
+    /// </summary>
     class MacOS : AppFactory
     {
         private string _nameOS = "Mac OS";
