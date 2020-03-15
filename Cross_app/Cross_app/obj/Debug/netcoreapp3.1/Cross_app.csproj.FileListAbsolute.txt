@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\Cross_app\Cross_app\bin\Debug\netcoreapp3.1\Cross_app.exe
+C:\Users\1\source\repos\Cross_app\Cross_app\bin\Debug\netcoreapp3.1\Cross_app.deps.json
+C:\Users\1\source\repos\Cross_app\Cross_app\bin\Debug\netcoreapp3.1\Cross_app.runtimeconfig.json
+C:\Users\1\source\repos\Cross_app\Cross_app\bin\Debug\netcoreapp3.1\Cross_app.runtimeconfig.dev.json
+C:\Users\1\source\repos\Cross_app\Cross_app\bin\Debug\netcoreapp3.1\Cross_app.dll
+C:\Users\1\source\repos\Cross_app\Cross_app\bin\Debug\netcoreapp3.1\Cross_app.pdb
+C:\Users\1\source\repos\Cross_app\Cross_app\obj\Debug\netcoreapp3.1\Cross_app.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Cross_app\Cross_app\obj\Debug\netcoreapp3.1\Cross_app.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Cross_app\Cross_app\obj\Debug\netcoreapp3.1\Cross_app.AssemblyInfo.cs
+C:\Users\1\source\repos\Cross_app\Cross_app\obj\Debug\netcoreapp3.1\Cross_app.dll
+C:\Users\1\source\repos\Cross_app\Cross_app\obj\Debug\netcoreapp3.1\Cross_app.pdb
